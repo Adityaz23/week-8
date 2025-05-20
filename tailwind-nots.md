@@ -28,3 +28,6 @@ Grids means the width of your application
 # Responsiveness :-
 They are like the breakpoints in your screen.![sizes for the responsiveness](image.png).
 Tailwind is  the mobile first screen cause by default tailwind uses mobile-first breakdown system. What this means is that if you have unprefixed utilities take effect on the all screen sizes and if you have the prefixed utilities they will only take the specific breakpoint or above.
+
+* https://projects.100xdevs.com/tracks/oAjvkeRNZThPMxZf4aX5/QDisg3v6Fo9r08H6NsSd 
+We will be building a paytm from the start to end with the frontend and backend.
